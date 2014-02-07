@@ -4,7 +4,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Problem1001_ReverseRoot
+public class p1001_ReverseRoot
 {
     public static void main(String[] args)
     {

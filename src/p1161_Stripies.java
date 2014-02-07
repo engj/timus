@@ -3,7 +3,7 @@
  */
 import java.util.*;
 import java.io.*;
-public class Problem1161_Stripies {
+public class p1161_Stripies {
     private static double weight(double a, double b) {
         return 2*Math.sqrt(a*b);
     }

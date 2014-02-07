@@ -3,7 +3,7 @@
  */
 import java.util.*;
 import java.io.*;
-public class Problem1196_HistoryExam {
+public class p1196_HistoryExam {
     public static void main(String[] args) {
         MyScanner sc = new MyScanner();
         PrintWriter out = new PrintWriter(System.out);

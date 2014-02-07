@@ -3,7 +3,7 @@
  */
 import java.io.*;
 import java.util.*;
-public class Problem1149_SinusDances {
+public class p1149_SinusDances {
     private static String generateSN(int n) {
         String r = "";
         int j = 1;

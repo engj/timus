@@ -3,7 +3,7 @@
  */
 import java.util.*;
 import java.io.*;
-public class Problem1110_Power {
+public class p1110_Power {
     private static int powMod(int x, int n, int m) {
         if (n == 1) {
             return x;

@@ -3,7 +3,7 @@
  */
 import java.io.*;
 import java.util.*;
-public class Problem1131_Copying {
+public class p1131_Copying {
     private static int compute(int a, int b) {
         return 0;
     }
