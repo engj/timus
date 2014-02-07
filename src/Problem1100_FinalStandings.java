@@ -12,6 +12,7 @@ public class Problem1100_FinalStandings {
             this.m = m;
         }
     }
+    // Needs to be changed to merge sort.
     private static ArrayList<Team> bubbleSort(ArrayList<Team> a) {
         boolean f = true;
         while (f) {
