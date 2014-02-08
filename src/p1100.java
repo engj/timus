@@ -3,7 +3,7 @@
  */
 import java.io.*;
 import java.util.*;
-public class p1100_FinalStandings {
+public class p1100 {
     private static class Team {
         int id;
         int m;

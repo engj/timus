@@ -3,7 +3,7 @@
  */
 import java.io.*;
 import java.util.*;
-public class p1131_Copying {
+public class p1131 {
     private static int compute(int a, int b) {
         return 0;
     }

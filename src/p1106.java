@@ -3,7 +3,7 @@
  */
 import java.io.*;
 import java.util.*;
-public class p1106_TwoTeams {
+public class p1106 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         PrintWriter out = new PrintWriter(System.out);
