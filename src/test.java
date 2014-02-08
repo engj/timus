@@ -3,5 +3,7 @@
  */
 public class test {
     public static void main(String[] args) {
+        double p = (double) 1/3 * 100;
+        System.out.println(p);
     }
 }
